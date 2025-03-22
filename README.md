@@ -23,8 +23,8 @@ It provides **visualizations** and **performance metrics** to analyze algorithm 
 ## 📌 Installation  
 ### Step 1: Clone the Repository  
 ```bash  
-git clone https://github.com/yourusername/Page-Replacement-Simulator.git  
-cd Page-Replacement-Simulator  
+git clone https://github.com/aaghash-31/page_replacement_algorithm_simulator-.git  
+cd page_replacement_algorithm_simulator-  
 ```  
 
 ### Step 2: Install Dependencies  
